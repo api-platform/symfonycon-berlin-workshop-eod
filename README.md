@@ -30,7 +30,7 @@ flexibility:
 * Easily add **[JSON Web Token][25] or [OAuth][26] authentication**
 * Create specs and tests with a **developer friendly API context system** on top
   of [Behat][10]
-* Develop your website UI, webapp, mobile app or anything else you want using
+* Develop your website UI, web app, mobile app or anything else you want using
   **your preferred client-side technologies**! Tested and approved with **React**, **AngularJS**
   (integration included), **Ionic**  and **native mobile** apps
 
@@ -45,7 +45,7 @@ formats][28]**.
 And yes, Google crawls full-Javascript applications [as well as old-fashioned ones][29].
 
 Last but not least, API Platform is built on top of the [Symfony][5]
-full-stack framework and follows its best practices. It means than you can:
+full-stack framework and follows its best practices. It means then you can:
 
 * use **thousands of Symfony bundles** with API Platform
 * integrate API Platform in **any existing Symfony application**
@@ -62,7 +62,7 @@ Install
 What's inside?
 --------------
 
-API Platform provides rock solid foundations to build your project:
+API Platform provides rock-solid foundations to build your project:
 
 * [**The Schema Generator**][7] to generate PHP entities from [Schema.org][8] types with
 Doctrine ORM mappings, Symfony validation and extended PHPDoc
@@ -112,11 +112,11 @@ the MIT or BSD license.
 Authentication support
 ----------------------
 
-Json Web Token is a lightweight and popular way to handle authentication in a
+JSON Web Token is a lightweight and popular way to handle authentication in a
 stateless way. Install [**LexikJWTAuthenticationBundle**][21] to adds JWT support
 to API Platform.
 
-Oauth support can also be easily added using [**FOSOAuthServerBundle**][22].
+OAuth support can also be easily added using [**FOSOAuthServerBundle**][22].
 
 Enjoy!
 
